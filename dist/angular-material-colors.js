@@ -81,9 +81,9 @@
     
             colors.forEach(function (color) {
                 // insert foreground color rule
-                customSheet.insertRule(fg(color));
+                customSheet.insertRule(fg(color),0);
                 // insert background color rule
-                customSheet.insertRule(bg(color));
+                customSheet.insertRule(bg(color),0);
             });
         }
     }        
