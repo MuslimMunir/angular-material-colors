@@ -62,5 +62,4 @@ where theme can be 'blue-grey' or any valid angular theme it should be your them
 
 #### DEMO 
 This is [on Plnkr](http://plnkr.co/edit/SHkXcAQDNPHWloBnVxrw?p=preview) so let me know if I've b0rked it somewhere.
-### Contact 
-muslim028@gmail.com , muslim.munir@nxb.com.pk
+
