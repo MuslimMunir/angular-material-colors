@@ -1,0 +1,17 @@
+{
+  "name": "angularMaterialColors",
+  "homepage": "https://github.com/MuslimMunir/angular-material-colors",
+  "_release": "8ac584e385",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "8ac584e385defe5e057cf6077e6c70b21fe65499"
+  },
+   "main": [
+    "dist/angular-material-colors.min.js"
+  ],
+  "_source": "https://github.com/MuslimMunir/angular-material-colors.git",
+  "_target": "*",
+  "_originalSource": "angularMaterialColors",
+  "_direct": true
+}
