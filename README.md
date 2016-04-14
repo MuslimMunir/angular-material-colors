@@ -1,4 +1,4 @@
-# Angular Material background anf foreground colors
+# Angular Material background and foreground colors
 ### Introduction
 This modules help to set theme colors on div , content background and foreground colors 
 
